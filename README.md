@@ -2,7 +2,6 @@
 
 This is an mod project of the SPD.
 
-ARPD supports only KOREAN language yet. ENGLISH is also supported, but it's incomplete.
 
 ### New Contents
 _______
