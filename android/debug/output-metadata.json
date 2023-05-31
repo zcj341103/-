@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.arrangedpixel.arrangedpixeldungeon.indev",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 707,
+      "versionName": "1.4.3_based_2.46.0.seed-INDEV",
+      "outputFile": "android-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
