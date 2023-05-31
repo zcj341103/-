@@ -1,4 +1,4 @@
-# ARranged Pixel Dungeon
+# ARranged Pixel Dungeon 火枪的像素地牢种子查询器
 
 This is an mod project of the SPD.
 
